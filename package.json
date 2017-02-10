@@ -1,6 +1,10 @@
 {
   "name": "kibana-react-app",
-  "version": "kibana",
+  "version": "0.0.1",
+  "main": "gulpfile.js",
+  "kibana": {
+    "version": "kibana"
+  },
   "description": "Weeeeee",
   "main": "gulpfile.js",
   "scripts": {
